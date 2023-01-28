@@ -2,7 +2,7 @@ import { Component, h, State } from '@stencil/core';
 
 
 @Component({
-  tag: 'my-component',
+  tag: 'sanket-gpt',
   styleUrl: 'my-component.css',
   shadow: true,
 })
